@@ -1,4 +1,4 @@
-# GEA Open Orders MAcro
+# GEA EMEA Open Orders Macro
 
 ## Description
 
